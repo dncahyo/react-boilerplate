@@ -10,7 +10,7 @@ import injectReducer from 'utils/injectReducer';
 
 import reducer from './reducer';
 import { sidebarOpen, sidebarClose } from './actions';
-import { slcSidebarSelected, slcSidebarCollapsed  } from './selectors';
+import { slcSidebarSelected, slcSidebarCollapsed } from './selectors';
 
 const position = [51.505, -0.09];
 
